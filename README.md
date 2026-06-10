@@ -25,12 +25,6 @@ AI-powered Finance Chatbot built using Dialogflow ES and deployed through Kommun
 ### Intent List
 ![Intent List](screenshots/INTENT%20LIST.png)
 
-### Kommunicate Setup
-![Kommunicate Setup](screenshots/KOMMUNITICATE%20SETUP.png)
-
-### Live Chatbot Testing
-![Live Chatbot Testing](screenshots/LIVE%20CHATBOT%20TESTING.png)
-
 ### NPV Intent Response
 ![NPV Intent Response](screenshots/NPV%20INTENT%20RESPONSE.png)
 
@@ -39,6 +33,12 @@ AI-powered Finance Chatbot built using Dialogflow ES and deployed through Kommun
 
 ### Try It Now Testing
 ![Try It Now](screenshots/TRY%20IT%20NOW%20TESTING.png)
+
+### Live Chatbot Testing
+![Live Chatbot Testing](screenshots/LIVE%20CHATBOT%20TESTING.png)
+
+### Kommunicate Setup
+![Kommunicate Setup](screenshots/KOMMUNITICATE%20SETUP.png)
 
 ## Live Demo
 https://www.kommunicate.io/livechat-demo?appId=8a2fab07b0289155890e23bdd3bb7a58&botIds=mba-finance-bot-1op0q&assignee=mba-finance-bot-1op0q
