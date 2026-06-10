@@ -82,5 +82,5 @@ The chatbot covers 13 finance topics commonly studied in MBA Applied Finance pro
 ## 👩‍💼 Author
 
 **Khushi lathwal**
-MBA Applied Finance | Chitkara University, Panchkula
+MBA Applied Finance | Chitkara University, 
 2026
